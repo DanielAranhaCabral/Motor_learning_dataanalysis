@@ -1,4 +1,4 @@
-# Motor_learning_dataanalysis
+# Data processing and Analysis on Motor Performance
 Processing Raw Performance Data
 Daniel Cabral
 2022-07-14
